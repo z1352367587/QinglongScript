@@ -1,2 +1,2 @@
 # QinglongScript
-自用的青龙容器脚本，天气预报、每天60s读懂世界、阿里云盘签到、天翼云盘签到、科技玩家签到等等
+forked from aefa6/QinglongScript自用的青龙容器脚本，阿里云盘签到、天翼云盘签到
